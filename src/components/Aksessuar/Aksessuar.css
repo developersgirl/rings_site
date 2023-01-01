@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+.aksessuar {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.aksessuar p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+}
+
+.aksessuar h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #333333;
+    margin-top: 15px;
+}
+
+.aksessuar .blog_item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.aksessuar .blog_item .akses1 {
+    background-image: url(./img/akses1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 30px;
+    padding: 248px 98px 35px 98px;
+}
+
+.aksessuar .blog_item .akses1 a {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.aksessuar .blog_item .akses2 {
+    background-image: url(./img/akses2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 30px;
+    padding: 248px 98px 35px 98px;
+}
+
+.aksessuar .blog_item .akses2 a {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.aksessuar .blog_item .akses3 {
+    background-image: url(./img/akses3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 30px;
+    padding: 248px 98px 35px 98px;
+}
+
+.aksessuar .blog_item .akses3 a {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}

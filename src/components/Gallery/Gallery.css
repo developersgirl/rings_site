@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+.Gallery {
+    margin-left: 405px;
+    margin-right: 405px;
+    margin-bottom: 150px;
+}
+
+.Gallery p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+}
+
+.Gallery h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #333333;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+.Gallery .img_hover .gallery_video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Gallery .img_hover .gallery_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Gallery .img_hover .gallery_video .gallery_video1 {
+    background-image: url(./img/gallery__video1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 555px;
+    height: 300px;
+}
+
+.Gallery .img_hover .gallery_video .gallery_video2 {
+    background-image: url(./img/gallery__video2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 278px;
+    height: 300px;
+}
+
+.Gallery .img_hover .gallery_video .gallery_video3 {
+    background-image: url(./img/gallery__video3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 277px;
+    height: 300px;
+}
+
+.Gallery .img_hover .gallery_img .gallery_img1 {
+    background-image: url(./img/gallery__image1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 278px;
+    height: 300px;
+}
+
+.Gallery .img_hover .gallery_img .gallery_img2 {
+    background-image: url(./img/gallery__image2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 277px;
+    height: 300px;
+}
+
+.Gallery .img_hover .gallery_img .gallery_img3 {
+    background-image: url(./img/gallery__image3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 555px;
+    height: 300px;
+}

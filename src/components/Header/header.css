@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.header {
+    background-image: url(./img/bgimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+}
+
+.header .markaz h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 500px;
+}
+
+.header .markaz {
+    text-align: center;
+}
+
+.header .markaz button {
+    background: #333333;
+    border: 1px solid #FFFFFF;
+    padding: 15px 35px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 65px;
+    margin-bottom: 80px;
+    text-align: center;
+    justify-content: center;
+}
+
+.header .markaz .gorizontal {
+    border: 1px solid #FFFFFF;
+}
+
+.header .Brends {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.header .Brends .line {
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+    width: 40px;
+}

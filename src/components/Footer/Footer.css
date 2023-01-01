@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 405px;
+    margin-right: 405px;
+}
+
+.footer .footer_column1 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+
+.footer .footer_column1  a {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #333333;
+    margin-bottom: 15px;
+}

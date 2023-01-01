@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+.Blackdiv {
+    background: url(./img//bgblack.png), #333333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.Blackdiv h5 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 100px;
+}
+
+.Blackdiv h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+
+.Blackdiv p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
+
+.Blackdiv button {
+    background: #FFFFFF;
+    border: 1px solid #333333;
+    padding: 15px 35px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #333333;
+    margin-bottom: 100px;
+}

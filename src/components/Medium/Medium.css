@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+
+.medium {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.medium p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.medium h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #333333;
+    margin-top: 15px;
+}
+
+.medium .mean {
+    margin-top: 60px;
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+
+.medium .mean img {
+    margin-right: 18px;
+}
+
+.medium .uzuklarring .FirstDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv1 {
+    background-image: url(./img//firstring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 20px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv1 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv2 {
+    background-image: url(./img//secondring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 30px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv2 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv3 {
+    background-image: url(./img//thirdring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 30px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv3 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv4 {
+    background-image: url(./img//fourthring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 30px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv4 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv5 {
+    background-image: url(./img//fifteenring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 30px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv5 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv6 {
+    background-image: url(./img//sixring.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 280px;
+    margin: 30px;
+}
+
+.medium .uzuklarring .FirstDiv .firstdiv6 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 222px 122px 30px 122px;
+}

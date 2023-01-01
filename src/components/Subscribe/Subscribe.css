@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+
+.Subscribe {
+    background-image: url(./img//subs_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-bottom: 125px;
+    margin-bottom: 80px;
+}
+
+.Subscribe .Blackdiv_box h5 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 100px;
+}
+
+.Subscribe .Blackdiv_box h1 {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+
+.Subscribe .Blackdiv_box .subscribe_list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 60px;
+}
+
+.Subscribe .Blackdiv_box .subscribe_list .lichniy {
+    margin-right: 30px;
+}
+
+.Subscribe .Blackdiv_box .subscribe_list a {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
