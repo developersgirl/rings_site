@@ -11,7 +11,23 @@
     align-items: center;
     justify-content: space-between;
     margin-left: 405px;
-    margin-right: 405px;
+    margin-right: 405px;  
+    margin-bottom: 60px;
+}
+
+/* .footer .footer_column1 .line_div {
+    border: 0.5px solid #a7a4a4;
+    margin-bottom: 30px;
+} */
+
+.footer .footer_column1{
+    margin-right: 50px;
+}
+.footer .footer_column2{
+    margin-right: 50px;
+}
+.footer .footer_column3{
+    margin-right: 50px;
 }
 
 .footer .footer_column1 h1 {
@@ -25,7 +41,6 @@
     color: #333333;
 }
 
-
 .footer .footer_column1 a {
     font-family: 'Gilroy';
     font-style: normal;
@@ -33,8 +48,13 @@
     font-size: 14px;
     line-height: 150%;
     color: #333333;
-    margin-bottom: 15px;
+    padding-top: 30px;
 }
+
+/* .footer .footer_column2 .line_div {
+    border: 0.5px solid #a7a4a4;
+    margin-bottom: 30px;
+} */
 
 .footer .footer_column2 h1 {
     font-family: 'Gilroy';
@@ -46,3 +66,73 @@
     text-transform: uppercase;
     color: #333333;
 }
+
+.footer .footer_column2 p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #333333;
+    /* margin-top: 30px; */
+}
+
+.footer .footer_column2 .visa_img {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.footer .footer_column2 .visa_img img {
+    margin: 10px;
+}
+
+.footer .footer_column3 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+
+/* .footer .footer_column3 .line_div {
+    border: 0.5px solid #a7a4a4;
+    margin-bottom: 30px;
+}
+
+.footer .footer_column4 .line_div {
+    border: 0.5px solid #a7a4a4;
+    margin-bottom: 30px;
+} */
+
+.footer .footer_column4 h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.footer .footer_column4 p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #333333;
+}
+
+.footer .footer_column4 .carbon {
+    margin-top: 22px;
+}
+
+/* .footer .footer_column4 .carbon img {
+    margin: 20px;
+} */
