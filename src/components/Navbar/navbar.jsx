@@ -4,15 +4,17 @@ import logo from '../Navbar/img/logo (3).png';
 import vectorr from '../Navbar/img/Vector (17).png';
 import account from '../Navbar/img/account.png';
 import like from '../Navbar/img/like.png';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
         <div className="NAVBAR">
             <div className="navbar">
                 <div className="left">
-                    <a href="#">Контрагентам</a>
-                    <a href="#">Дизайнерам</a>
-                    <a href="#">Вакансии</a>
+                    <Link to='/'>Контрагентам</Link>
+                    <Link to='/ONEbrend'>Дизайнерам</Link>
+                    <Link to='/BrendContact'>Вакансии</Link>
+                    <Link to='/BREND'>BREND</Link>
                 </div>
                 <div className="center">
                     <img src={logo} />
