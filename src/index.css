@@ -14,3 +14,8 @@
     max-width: 1100px;
     margin: 0 auto;
 }
+
+.contain{
+    max-width: 920px;
+    margin: 0 auto;
+}

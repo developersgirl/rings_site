@@ -11,7 +11,6 @@ const Header = () => {
                 <div className="markaz">
                     <h1>Долго, дорого, богато!</h1>
                     <button>каталог изделий </button>
-                    {/* <div className="gorizontal"></div> */}
                 </div>
                 <div className="Brends cont">
                     <img src={brend1} />

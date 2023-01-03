@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+
+.Brendh  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    justify-content: center;    
+}
+
+.Brendh .product-card {
+    padding: 35px 35px 184px 35px;
+    text-align: center;
+}
+
+.Brendh .product-card p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #333333;
+    margin-top: 25px;
+}
+
+.Brendh .product-card h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+    margin-top: 10px;
+}
+
+.Brendh .product-card button {
+    padding: 10px 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #333333;
+    border: none;
+    margin-top: 15px;
+}
+
+.Brendh  button {
+    padding: 15px 35px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #333333;
+    border: none;
+    margin-bottom: 150px;
+}

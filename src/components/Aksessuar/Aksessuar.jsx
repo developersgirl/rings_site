@@ -4,7 +4,7 @@ import button1 from '../Aksessuar/img/button1.png';
 
 const Aksessuar = () => {
     return (
-        <div className="aksessuar">
+        <div className="aksessuar cont">
             <p>Полезные статьи</p>
             <h1>Лучшие советы по подбору дорогих подарков</h1>
             <div className="blog_item">

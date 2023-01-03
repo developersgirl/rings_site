@@ -3,7 +3,7 @@ import './Gallery.css';
 
 const Gallery = () => {
     return (
-        <div className="Gallery">
+        <div className="Gallery cont">
             <p>#ojjo_jewerly</p>
             <h1>Мы в социальных сетях</h1>
             <div className="img_hover">

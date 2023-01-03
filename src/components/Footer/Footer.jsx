@@ -13,11 +13,10 @@ import email from '../Footer/img/mail.png';
 
 const Footer = () => {
     return (
-        <div className="footer">
+        <div className="footer cont">
             <div className="footer_column1">
                 <h1>Полезные ссылки</h1>
                 <hr />
-                {/* <div className="line_div"></div> */}
                 <a href="#">Доставка</a> <br />
                 <a href="#">Оплата</a> <br />
                 <a href="#">Акции</a> <br />
@@ -26,7 +25,6 @@ const Footer = () => {
             <div className="footer_column2">
                 <h1>оплата</h1>
                 <hr />
-                {/* <div className="line_div"></div> */}
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper justo, nec, pellentesque.</p>
                 <div className="visa_img">
                     <img src={visa} />
@@ -36,7 +34,6 @@ const Footer = () => {
             <div className="footer_column3">
                 <h1>контакты</h1>
                 <hr />
-                {/* <div className="line_div"></div> */}
                 <div className="tel_number">
                     <div className="number">
                         <img src={tel} />
@@ -55,7 +52,6 @@ const Footer = () => {
             <div className="footer_column4">
                 <h1>социальные сети</h1>
                 <hr />
-                {/* <div className="line_div"></div> */}
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper justo, nec, pellentesque.</p>
                 <div className="carbon">
                     <img src={bx_youtube} />

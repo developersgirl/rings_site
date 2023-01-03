@@ -19,7 +19,6 @@
     line-height: 49px;
     text-align: center;
     color: #FFFFFF;
-    /* margin-top: 500px; */
 }
 
 .header .markaz {
@@ -45,10 +44,6 @@
     margin-bottom: 80px;
     text-align: center;
     justify-content: center;
-}
-
-.header .markaz .gorizontal {
-    border: 1px solid #FFFFFF;
 }
 
 .header .headerBottom {
