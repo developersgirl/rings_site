@@ -4,7 +4,11 @@
     background-image: url(./img/bgimg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 950px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
 }
 
 .header .markaz h1 {
@@ -15,11 +19,13 @@
     line-height: 49px;
     text-align: center;
     color: #FFFFFF;
-    margin-top: 500px;
+    /* margin-top: 500px; */
 }
 
 .header .markaz {
     text-align: center;
+    border-bottom: 2px solid white;
+    width: 100%;
 }
 
 .header .markaz button {
@@ -45,13 +51,15 @@
     border: 1px solid #FFFFFF;
 }
 
+.header .headerBottom {
+    width: 100%;
+}
 .header .Brends {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-top: 30px;
-    margin-left: 150px;
-    margin-right: 150px;
+   
 }
 
 .header .Brends .line {

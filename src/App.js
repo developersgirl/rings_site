@@ -14,23 +14,16 @@ import Subscribe from './components/Subscribe/Subscribe';
 
 const App = () => {
   return (
-    <BrowserRouter >
-    <Header />
-        <Medium />
-        <BlackDiv />
-        <Aksessuar />
-        <Gallery />
-        <Subscribe />
-        <Footer />
-      <div className='container'>
-        
-        <Navbar />
+    <div className='container'>
+      <BrowserRouter >
         <Routes >
           <Route path='/' element={<BrendRing />} />
           <Route path='/ONEbrend' element={<ONEbrend />} />
+          <Route path='/ONEbrend' element={<ONEbrend />} />
+          <Route path='/ONEbrend' element={<ONEbrend />} />
         </Routes>
-      </div>
-    </BrowserRouter>
+      </BrowserRouter>
+    </div>
   );
 }
 
