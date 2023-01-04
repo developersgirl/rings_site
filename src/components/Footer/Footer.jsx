@@ -9,6 +9,7 @@ import bx_etsy from '../Footer/img/bx_etsy.png';
 import mastercard from '../Footer/img/master.png';
 import tel from '../Footer/img/phone.png';
 import email from '../Footer/img/mail.png';
+import { Link } from 'react-router-dom';
 
 
 const Footer = () => {
@@ -32,7 +33,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer_column3">
-                <h1>контакты</h1>
+                <Link to='/BrendContact'><h1>контакты</h1></Link>
                 <hr />
                 <div className="tel_number">
                     <div className="number">
